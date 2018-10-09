@@ -1,0 +1,33 @@
+﻿<Window x:Name="Main" x:Class="Einlagerungsschein.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Einlagerungsschein"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="452" Width="562" ShowInTaskbar="False" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid>
+        <CheckBox Content="Stahlräder" HorizontalAlignment="Left" Margin="55,38,0,0" VerticalAlignment="Top" Width="80"/>
+        <CheckBox Content="Aluräder" HorizontalAlignment="Left" Margin="55,58,0,0" VerticalAlignment="Top" Width="80"/>
+        <CheckBox Content="Sommerreifen" HorizontalAlignment="Left" Margin="211,38,0,0" VerticalAlignment="Top" Checked="CheckBox_Checked"/>
+        <CheckBox Content="Muttern" HorizontalAlignment="Left" Margin="328,58,0,0" VerticalAlignment="Top"/>
+        <CheckBox Content="TPMS" HorizontalAlignment="Left" Margin="328,38,0,0" VerticalAlignment="Top"/>
+        <CheckBox Content="Winterreifen" HorizontalAlignment="Left" Margin="211,58,0,0" VerticalAlignment="Top"/>
+        <CheckBox Content="Radzierblenden" HorizontalAlignment="Left" Margin="414,58,0,0" VerticalAlignment="Top"/>
+        <CheckBox Content="Radsicherung" HorizontalAlignment="Left" Margin="414,38,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="61,145,0,0" TextWrapping="Wrap" Text="Fahrzeug" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="311,184,0,0" TextWrapping="Wrap" Text="Wohnort" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="247,184,0,0" TextWrapping="Wrap" Text="PLZ" VerticalAlignment="Top" Width="59"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="61,184,0,0" TextWrapping="Wrap" Text="Kundenname" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="247,145,0,0" TextWrapping="Wrap" Text="Amtl. Kennzeichen" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="61,229,0,0" TextWrapping="Wrap" Text="Straße" VerticalAlignment="Top" Width="370"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="61,272,0,0" TextWrapping="Wrap" Text="Reifenmarke" VerticalAlignment="Top" Width="370"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="61,360,0,0" TextWrapping="Wrap" Text="Profiltiefe" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="VL" VerticalAlignment="Top" Width="33" Margin="209,360,0,0"/>
+        <TextBox HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="HR" VerticalAlignment="Top" Width="33" Margin="323,360,0,0"/>
+        <TextBox HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="HL" VerticalAlignment="Top" Width="33" Margin="285,360,0,0" RenderTransformOrigin="1.071,0.464"/>
+        <TextBox HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="VR" VerticalAlignment="Top" Width="33" Margin="247,360,0,0"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="61,317,0,0" TextWrapping="Wrap" Text="Reifengröße" VerticalAlignment="Top" Width="370"/>
+
+    </Grid>
+</Window>

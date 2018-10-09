@@ -1,0 +1,15 @@
+C:\Users\tonim\Source\Repos\Software_Project\Einlagerungsschein\bin\Debug\Einlagerungsschein.exe.config
+C:\Users\tonim\Source\Repos\Software_Project\Einlagerungsschein\bin\Debug\Einlagerungsschein.exe
+C:\Users\tonim\Source\Repos\Software_Project\Einlagerungsschein\bin\Debug\Einlagerungsschein.pdb
+C:\Users\tonim\Source\Repos\Software_Project\Einlagerungsschein\obj\Debug\Einlagerungsschein.csprojAssemblyReference.cache
+C:\Users\tonim\Source\Repos\Software_Project\Einlagerungsschein\obj\Debug\MainWindow.g.cs
+C:\Users\tonim\Source\Repos\Software_Project\Einlagerungsschein\obj\Debug\App.g.cs
+C:\Users\tonim\Source\Repos\Software_Project\Einlagerungsschein\obj\Debug\Einlagerungsschein_MarkupCompile.cache
+C:\Users\tonim\Source\Repos\Software_Project\Einlagerungsschein\obj\Debug\Einlagerungsschein_MarkupCompile.lref
+C:\Users\tonim\Source\Repos\Software_Project\Einlagerungsschein\obj\Debug\MainWindow.baml
+C:\Users\tonim\Source\Repos\Software_Project\Einlagerungsschein\obj\Debug\Einlagerungsschein.g.resources
+C:\Users\tonim\Source\Repos\Software_Project\Einlagerungsschein\obj\Debug\Einlagerungsschein.Properties.Resources.resources
+C:\Users\tonim\Source\Repos\Software_Project\Einlagerungsschein\obj\Debug\Einlagerungsschein.csproj.GenerateResource.cache
+C:\Users\tonim\Source\Repos\Software_Project\Einlagerungsschein\obj\Debug\Einlagerungsschein.csproj.CoreCompileInputs.cache
+C:\Users\tonim\Source\Repos\Software_Project\Einlagerungsschein\obj\Debug\Einlagerungsschein.exe
+C:\Users\tonim\Source\Repos\Software_Project\Einlagerungsschein\obj\Debug\Einlagerungsschein.pdb
